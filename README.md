@@ -3,8 +3,8 @@ This is Lab 6 for CMPINF 0010, Big Ideas in Computing and Information...
 
 # Skill-Lab
 
-## What The Software Does
-In this simple software, it prompts the user to enter their name, then the program greets the user and prompts the user to enter the school that they go to. After receiving this information from the user, the program prints out the name of the school and uses the name to says that the school "is a great school."
+## What The Program Does
+In this simple program, it prompts the user to enter their name, then the program greets the user and prompts the user to enter the school that they go to. After receiving this information from the user, the program prints out the name of the school and uses the name to says that the school "is a great school."
 
 ## How To Use It
 1. Before anything, we have to fork the respository to your own GitHub account
@@ -14,7 +14,8 @@ In this simple software, it prompts the user to enter their name, then the progr
 5. After downloading the you 'git clone' the repository, there should be a folder named 'Skill-Lab' in your downloads either on your computer or on JupterLab
 6. Once you have found the folder, click on the folder to enter the folder
 7. Open terminal then in terminal, type 'cd Skill-Lab' (only if the Skill-Lab file is on the main page of your files, otherwise, ('"folder name"/Skill-Lab')) allowing us to access the folder in terminal
-
+8. Find the program, use "shift + enter" to run it.
+9. Type in the String by following the program instruction.
 ## How To Contribute
 Our goal for this folder is to write a proper program that greets the users and and calculates the user's age. 
 
